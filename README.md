@@ -1,2 +1,2 @@
-# Alura-Paralelismo-com-CSharp-e-.NET
-Progresso de nosso desenvolvimento no curso de Paralelismo com C# e .NET
+# Paralelismo-com-CSharp-e-.NET
+Curso de Paralelismo com C# e .NET
